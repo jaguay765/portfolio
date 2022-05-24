@@ -1,0 +1,93 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #f6f6f6;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Oswald', sans-serif;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.link>.a {
+    padding: 15px 5px;
+    text-align: center;
+    color: #000000;
+    width:800px;
+}
+
+.link >.a:hover{
+    background-color: #111111;
+    transition: all 1s ease;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.projectone{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 25px;
+    margin-top: 500px;
+}
+
+.projecttwo{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 35px;
+}
+
+.picture{
+    margin-bottom: 400px;
+}
+
+.youtube{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 100px;
+    border: solid 5px #111111;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 100px;
+}
+
+.projectlist{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border: solid 5px black;
+    margin-left: 450px;
+    margin-right: 450px;
+    font-size: 25px;
+}
+
+.projectlisttwo{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border: solid 5px black;
+    margin-left: 450px;
+    margin-right: 450px;
+    font-size: 25px;
+}
+
+
+a{
+    display: grid;
+
+
+}
